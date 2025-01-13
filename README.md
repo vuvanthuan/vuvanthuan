@@ -1,4 +1,4 @@
-<img align="right" width="300px" src="./gonjo.png" />
+<img align="right" width="300px" src="./toji.png" />
 
 <p align="left">
   <a href="mailto:thuanvuvan76@gmail.com">
@@ -24,7 +24,7 @@
 <br>
 
 - :rocket: About: I'm Austin Vu. I love spending time to build the application
-- :mortar_board: Studying: Java(Spring Boot) And Flutter & React Native.
+- :mortar_board: Studying: Flutter and Python.
 - :briefcase: <strong>I am currently looking for a job as Fullstack Developer.</strong>
 
 <br>
@@ -79,8 +79,8 @@
 
    <a href="#">
     <img src="services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  
+  </a>
+
   <a href="#">
     <img src="services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
   </a>
@@ -90,11 +90,11 @@
   </a>
 </p>
 <div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
-  <img 
+  <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanthuan76&theme=solarized"
     height="165"
   />
-  <img 
+  <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthuan76&theme=solarized"
     height="165"
   />
