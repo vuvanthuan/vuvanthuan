@@ -7,17 +7,17 @@
   <a href="https://twitter.com/THUANVUVAN157">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/VanThuan76">
+  <a href="https://leetcode.com/u/vuvanthuan">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
 
 <p align="left">
  <a href="https://github.com/cuzinxyz/?tab=follow">
-    <img src="https://img.shields.io/github/followers/VanThuan76?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/vuvanthuan?label=Follow&style=social" />
   </a>
    <a>
-    <img src="https://komarev.com/ghpvc/?username=VanThuan76&label=Visitors+Count&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=vuvanthuan&label=Visitors+Count&color=blue" />
   </a>
 </p>
 
@@ -91,11 +91,11 @@
 </p>
 <div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanthuan76&theme=solarized"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuvanthuan&theme=solarized"
     height="165"
   />
   <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthuan76&theme=solarized"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vuvanthuan&theme=solarized"
     height="165"
   />
 </div>
@@ -103,11 +103,11 @@
 <div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%; margin-bottom: 20px'>
 <img
     height="165"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VanThuan76&theme=swift&utcOffset=8"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vuvanthuan&theme=swift&utcOffset=8"
   />
 <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=vanthuan76&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
+    src="https://github-readme-stats.vercel.app/api?username=vuvanthuan&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
   />
 </div>
 
@@ -115,4 +115,4 @@
 
 <!--END_SECTION:waka-->
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VanThuan76)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vuvanthuan)
