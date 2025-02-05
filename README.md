@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/followers/vuvanthuan?label=Follow&style=social" />
   </a>
    <a>
-    <img src="https://komarev.com/ghpvc/?username=vuvanthuan&label=Visitors+Count&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=vanthuan76&label=Visitors+Count&color=blue" />
   </a>
 </p>
 
