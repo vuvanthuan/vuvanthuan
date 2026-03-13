@@ -1,8 +1,8 @@
 # Austin Vu (Thuan Vu)
-**Tech Lead • Founder of [ASEMIS](https://github.com/ASEMIS)**
+**Tech Lead • Software Architect**
 
 ### Professional Summary
-Software Architect and Engineering Leader with a focus on building scalable enterprise solutions. As the Founder of ASEMIS, I specialize in designing robust digital infrastructures and leading cross-functional teams to deliver high-impact software products.
+Software Architect and Engineering Leader with over 5 years of experience in building scalable enterprise solutions. I specialize in designing robust digital infrastructures, leading cross-functional teams, and delivering high-impact software products with a focus on clean code and maintainable architecture.
 
 ---
 
@@ -36,8 +36,8 @@ Software Architect and Engineering Leader with a focus on building scalable ente
 
 ### GitHub Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vuvanthuan&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&hide=contribs,issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvanthuan&layout=compact&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanthuan76&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&hide=contribs,issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanthuan76&layout=compact&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="150" />
 </p>
 
 ---
