@@ -1,118 +1,53 @@
-<img align="right" width="300px" src="./toji.png" />
+# Austin Vu (Thuan Vu)
+**Tech Lead • Founder of [ASEMIS](https://github.com/ASEMIS)**
 
+### Professional Summary
+Software Architect and Engineering Leader with a focus on building scalable enterprise solutions. As the Founder of ASEMIS, I specialize in designing robust digital infrastructures and leading cross-functional teams to deliver high-impact software products.
+
+---
+
+### Strategic Focus
+- **Architecture & Systems**: Designing resilient microservices and event-driven architectures.
+- **Product Engineering**: Delivering high-performance mobile and web applications via Flutter and React.
+- **DevOps & Infrastructure**: Automating deployment pipelines and managing cloud-native systems.
+
+---
+
+### Core Competencies
+
+**Frontend & Mobile**
+- **Mobile**: Flutter (Dart), Flutter BLoC/Provider/Riverpod.
+- **Web**: React.js, Next.js, TypeScript/JavaScript (ES6+), Sass/CSS3, HTML5.
+- **UI/UX**: Responsive Design, Component-based Architecture.
+
+**Backend & Systems**
+- **Node.js**: Express.js, Nest.js, Microservices.
+- **PHP**: Laravel (MVC), RESTful API Design.
+- **Java**: Spring Boot, Object-Oriented Design.
+- **Python**: Automation, Data Scripting.
+- **Databases**: PostgreSQL, MySQL, Redis, MongoDB.
+
+**DevOps & Infrastructure**
+- **Cloud**: Google Cloud Platform (GCP), AWS basics.
+- **Containerization**: Docker, Docker Compose, Kubernetes basics.
+- **Automation**: CI/CD (GitHub Actions), Linux Administration, Bash Scripting.
+
+---
+
+### GitHub Metrics
 <p align="left">
-  <a href="mailto:thuanvuvan76@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:thuanvuvan76@gmail.com" />
-  </a>
-  <a href="https://twitter.com/THUANVUVAN157">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/vuvanthuan">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vuvanthuan&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&hide=contribs,issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvanthuan&layout=compact&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="150" />
 </p>
 
-<p align="left">
- <a href="https://github.com/cuzinxyz/?tab=follow">
-    <img src="https://img.shields.io/github/followers/vuvanthuan?label=Follow&style=social" />
-  </a>
-   <a>
-    <img src="https://komarev.com/ghpvc/?username=vanthuan76&label=Visitors+Count&color=blue" />
-  </a>
-</p>
+---
 
-<br>
+### Engagement
+- **Mail**: [thuanvuvan76@gmail.com](mailto:thuanvuvan76@gmail.com)
+- **Networking**: [Twitter](https://twitter.com/THUANVUVAN157) • [LeetCode](https://leetcode.com/u/vuvanthuan)
 
-- :rocket: About: I'm Austin Vu. I love spending time to build the application
-- :mortar_board: Studying: Flutter and Python.
-- :briefcase: <strong>I am currently looking for a job as Fullstack Developer.</strong>
-
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
+<br />
 
 <p align="left">
-
-  <a href="#">
-    <img src="languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="languages/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-  </a>
-
- <a href="#">
-    <img src="frameworks/flutter.svg" alt="flutter" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:6px 4px">
-  </a>
-
- <a href="#">
-    <img src="frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-   <a href="#">
-    <img src="services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-  </a>
-
-  <a href="#">
-    <img src="services/gcp.svg" alt="gcp" style="vertical-align:top; margin:6px 4px">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=vanthuan76&label=Profile+Views&color=000000&style=flat-square" />
 </p>
-<div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%;'>
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vuvanthuan&theme=solarized"
-    height="165"
-  />
-  <img
-    src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vuvanthuan&theme=solarized"
-    height="165"
-  />
-</div>
-<br>
-<div style='display:flex; flex-wrap: wrap; align-items:center; justify-content:start; gap: 10px, width:100%; margin-bottom: 20px'>
-<img
-    height="165"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vuvanthuan&theme=swift&utcOffset=8"
-  />
-<img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=vuvanthuan&hide=contribs,issues&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"
-  />
-</div>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vuvanthuan)
