@@ -1,8 +1,8 @@
 # Austin Vu (Thuan Vu)
-**Tech Lead • Software Architect**
+**Software Architect**
 
 ### Professional Summary
-Software Architect and Engineering Leader with over 5 years of experience in building scalable enterprise solutions. I specialize in designing robust digital infrastructures, leading cross-functional teams, and delivering high-impact software products with a focus on clean code and maintainable architecture.
+Software Architect and Engineering Leader with over 4 years of experience in building scalable enterprise solutions. I specialize in designing robust digital infrastructures, leading cross-functional teams, and delivering high-impact software products with a focus on clean code and maintainable architecture.
 
 ---
 
