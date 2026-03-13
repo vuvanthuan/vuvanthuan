@@ -36,8 +36,8 @@ Software Architect and Engineering Leader with over 5 years of experience in bui
 
 ### GitHub Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanthuan76&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&hide=contribs,issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanthuan76&layout=compact&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vuvanthuan&show_icons=true&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff&hide=contribs,issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vuvanthuan&layout=compact&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=ffffff" height="150" />
 </p>
 
 ---
@@ -49,5 +49,5 @@ Software Architect and Engineering Leader with over 5 years of experience in bui
 <br />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vanthuan76&label=Profile+Views&color=000000&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=vuvanthuan&label=Profile+Views&color=000000&style=flat-square" />
 </p>
